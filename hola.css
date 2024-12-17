@@ -1,0 +1,22 @@
+img {
+    display: flex;
+    flex-direction: column;
+}
+.to {
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+    padding: 50px 0;
+}
+.ta {
+    text-align: center;
+}
+.logo {
+    font-size: 40px;
+}
+.logo2 {
+    font-size: 40px;
+}
+.titulo {
+    display: flex;
+    justify-content: space-between;
+}
